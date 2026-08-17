@@ -1,6 +1,6 @@
 # Dry Bean Species Classification
 
-Multi-class ML classification on the UCI Dry Bean dataset — M.Tech (AIML/DSE) Assignment 2.
+Multi-class ML classification on the UCI Dry Bean dataset — ML Assignment 2.
 
 ---
 
